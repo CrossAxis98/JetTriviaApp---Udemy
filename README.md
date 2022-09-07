@@ -1,4 +1,4 @@
 # JetTriviaApp---Udemy
 Android Quiz app with Retrofit, Dagger Hilt and MVVM
 
-![](appScreen.png)
+![](appScreen.PNG)
